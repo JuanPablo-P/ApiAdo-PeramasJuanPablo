@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Escritorio\\CoderHouse\\IntegrandoAA\\IntegrandoAA\\IntegrandoAA.csproj": {}
+    "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\ApiAdo-PeramasJuanPablo\\IntegrandoAA\\IntegrandoAA.csproj": {}
   },
   "projects": {
-    "D:\\Escritorio\\CoderHouse\\IntegrandoAA\\IntegrandoAA\\IntegrandoAA.csproj": {
+    "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\ApiAdo-PeramasJuanPablo\\IntegrandoAA\\IntegrandoAA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Escritorio\\CoderHouse\\IntegrandoAA\\IntegrandoAA\\IntegrandoAA.csproj",
+        "projectUniqueName": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\ApiAdo-PeramasJuanPablo\\IntegrandoAA\\IntegrandoAA.csproj",
         "projectName": "IntegrandoAA",
-        "projectPath": "D:\\Escritorio\\CoderHouse\\IntegrandoAA\\IntegrandoAA\\IntegrandoAA.csproj",
+        "projectPath": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\ApiAdo-PeramasJuanPablo\\IntegrandoAA\\IntegrandoAA.csproj",
         "packagesPath": "C:\\Users\\Juanpi\\.nuget\\packages\\",
-        "outputPath": "D:\\Escritorio\\CoderHouse\\IntegrandoAA\\IntegrandoAA\\obj\\",
+        "outputPath": "D:\\Escritorio\\CoderHouse\\CoderPreEntregaJuanPabloPeramas\\ApiAdo-PeramasJuanPablo\\IntegrandoAA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Juanpi\\AppData\\Roaming\\NuGet\\NuGet.Config",
